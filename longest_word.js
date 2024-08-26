@@ -20,4 +20,4 @@ function longestWord(sen) {
 
 }
 
-console.log(longestWord("havannnna una nai"));
+console.log(longestWord("quick brown fix jumps over lazy dog")); //add any text that you want over here.
